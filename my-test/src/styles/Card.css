@@ -1,0 +1,15 @@
+.card{
+    display: flex;
+}
+.card-details{
+    padding-right: 10px;
+}
+.btn{
+    padding-left: 20px;
+    padding-top: 10px;
+    border-radius: 25px;
+    
+}
+.shadow{
+    border-radius: 15px;
+}
